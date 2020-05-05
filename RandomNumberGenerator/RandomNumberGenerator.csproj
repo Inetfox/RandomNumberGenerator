@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Pde.CodingExercise.RandomNumberGenerator</AssemblyName>
+    <RootNamespace>Pde.CodingExercise.RandomNumberGenerator</RootNamespace>
+    <Description>Product Data Engineering - Coding Exercise</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

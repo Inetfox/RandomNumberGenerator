@@ -1,0 +1,9 @@
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\netstandard2.0\RandomNumberGenerator.csprojAssemblyReference.cache
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\netstandard2.0\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\netstandard2.0\RandomNumberGenerator.AssemblyInfoInputs.cache
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\netstandard2.0\RandomNumberGenerator.AssemblyInfo.cs
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\netstandard2.0\Pde.CodingExercise.RandomNumberGenerator.deps.json
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\netstandard2.0\Pde.CodingExercise.RandomNumberGenerator.dll
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\netstandard2.0\Pde.CodingExercise.RandomNumberGenerator.pdb
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\netstandard2.0\Pde.CodingExercise.RandomNumberGenerator.dll
+D:\git\Interview\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\netstandard2.0\Pde.CodingExercise.RandomNumberGenerator.pdb
