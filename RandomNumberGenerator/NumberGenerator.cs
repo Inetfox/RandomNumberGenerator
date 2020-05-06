@@ -13,8 +13,17 @@ namespace Pde.CodingExercise.RandomNumberGenerator
         public NumberGenerator()
         {
             timer = new Timer(500);
+        }
+
+        public void Start() 
+        {
             timer.Start();
             timer.Elapsed += Timer_Elapsed;
+        }
+
+        public void Stop()
+        {
+            timer.Stop();
         }
 
         private void Timer_Elapsed(object sender, ElapsedEventArgs e)

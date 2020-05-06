@@ -8,11 +8,12 @@ namespace CodingExerciseClient
         static void Main(string[] args)
         {
             NumberGenerator numberGenerator = new NumberGenerator();
-
-            Console.ReadLine();
+            
             numberGenerator.NumberGenerated += NumberGenerator_NumberGenerated;
 
+            numberGenerator.Start();
             Console.ReadLine();
+            numberGenerator.Stop();
         }
 
         private static void NumberGenerator_NumberGenerated(object sender, NumberGeneratedEventArgs e)
